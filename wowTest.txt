@@ -1,0 +1,20 @@
+
+    <div class="testBox wow fadeInRight" style="width: 200px; height: 500px; background: #faf;"></div>
+    <div class="testBox wow fadeInTop" style="width: 200px; height: 500px; background: #afa;"></div>
+    <div class="testBox wow fadeInLeft" style="width: 200px; height: 500px; background: #aaf;"></div>
+    <div class="testBox wow fadeInBottom" style="width: 200px; height: 500px; background: #ffa;"></div>
+    <div class="testBox wow fadeIn" style="width: 200px; height: 500px; background: #fca;"></div>
+    <div class="testBox wow slideInRight" style="width: 200px; height: 500px; background: #af0;"></div>
+    <div class="testBox wow slideInLeft" style="width: 200px; height: 500px; background: #b0f;"></div>
+    <div class="testBox wow bounceInUp" style="width: 200px; height: 500px; background: #6af;"></div>
+    <div class="testBox wow fadeInRight" style="width: 200px; height: 500px; background: #f60;"></div>
+    <div class="testBox wow fadeInRight" style="width: 200px; height: 500px; background: #3f1;"></div>
+
+    <h1>
+        <span class="wow fadeInDown" data-wow-delay="0.5s">S</span>
+        <span class="wow fadeInDown" data-wow-delay="1.0s">U</span>
+        <span class="wow fadeInDown" data-wow-delay="1.5s">M</span>
+        <span class="wow fadeInDown" data-wow-delay="2.0s">M</span>
+        <span class="wow fadeInDown" data-wow-delay="2.5s">E</span>
+        <span class="wow fadeInDown" data-wow-delay="3.0s">R</span>
+    </h1>
